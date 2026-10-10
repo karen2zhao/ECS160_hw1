@@ -1,0 +1,10 @@
+edu/ucdavis/ecs160/hw1/Evaluator.class
+edu/ucdavis/ecs160/hw1/Sub.class
+edu/ucdavis/ecs160/hw1/Add.class
+edu/ucdavis/ecs160/hw1/Main.class
+edu/ucdavis/ecs160/hw1/Div.class
+edu/ucdavis/ecs160/hw1/Mult.class
+edu/ucdavis/ecs160/hw1/BinaryExpr.class
+edu/ucdavis/ecs160/hw1/Num.class
+edu/ucdavis/ecs160/hw1/Expr.class
+edu/ucdavis/ecs160/hw1/ExprVisitor.class
